@@ -31,7 +31,7 @@ All pages were updated to use a consistent main navigation structure:
 | **Services** | `services.html` |
 | **Blog** | `blog.html` |
 
-*Note: The **Contact** link was explicitly removed from the main center navigation to declutter the menu.*
+
 
 ### 3. Header Contact Button
 - Replaced the generic "Have any Questions?" section inside the top-right header (`.attr-right`) with a standalone, prominent **"Contact Us"** button that links directly to `contact.html`. 
@@ -40,7 +40,6 @@ All pages were updated to use a consistent main navigation structure:
 ### 4. UI & Aesthetic Enhancements
 - **Global Background:** Changed the default `body` background color across all pages to a Soft Blue Tint (`#F0F4FF`).
 - **Header & Footer:** Updated the main navigation header background to a dark color (`#0d1b2a`) to match the footer, while ensuring navigation links and icons remain visible (white).
-- **Top Bar:** Formatted the top bar (containing the address and social links) with a light background (`#F0F4FF`) and dark text (`#1a2238`) for readability.
 - **Sliders & Overlays:** Removed slider functionality from the services section in favor of independent, distinct service blocks. Removed unused project overlay icons.
 
 ### 5. Redirection Fixes
